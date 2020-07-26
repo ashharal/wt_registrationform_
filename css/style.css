@@ -1,0 +1,36 @@
+body{
+  position fixed;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+h1{
+  color:#fd5e53;
+  font-size:70px;
+}
+h2{
+  color:#ffe3ed;
+  font-size:50px;
+}
+h3{
+  color:#dab8f3;
+  font-size:40px;
+}
+h4{
+  color:#f1d6ab;
+  font-size:30px;
+}
+hr{
+
+  border-style:none;
+  border-top-style:dotted;
+  border-color:white;
+  width:10%;
+  border-width:10px;
+}
+h5{
+  color:#ffe3ed;
+  font-size:20px;
+}}
